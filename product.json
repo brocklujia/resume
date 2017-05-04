@@ -1,0 +1,9 @@
+[
+    {
+        "title": "玉米官网",
+        "desc": "使用的技术栈有:PHP+MySQL-jQuery+HTML+CSS+Ajax-laravel框架   + 做的一个商城网站，与后台交互，包含购物、评价、收藏等功能",
+        "imgName": "1",
+        "demoAddress": "resume",
+        "codeAddress": "laravel"
+    }
+]
